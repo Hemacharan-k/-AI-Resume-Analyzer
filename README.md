@@ -22,7 +22,10 @@
 
 | Resume Upload & Analysis | Skills Match Dashboard |
 |---|---|
-| ![Upload Screen](screenshots/upload.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Upload Screen](<img width="1891" height="878" alt="image" src="https://github.com/user-attachments/assets/088a024f-1460-45d3-9025-c60e9bc4500d" />
+| ![Dashboard](<img width="1777" height="780" alt="image" src="https://github.com/user-attachments/assets/8b9c29c3-a50e-4d3f-a972-2e400102b9a2" />
+|![Upload Screen](<img width="1847" height="840" alt="image" src="https://github.com/user-attachments/assets/8d272ed5-80e4-49fe-8a80-56fb2970f869" />
+
 
 ---
 
