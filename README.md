@@ -251,15 +251,6 @@ Pull requests are welcome!
 **K Hema Charan**
 B.Tech CSE (AI & ML) — SRM IST Ramapuram
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 <div align="center">
