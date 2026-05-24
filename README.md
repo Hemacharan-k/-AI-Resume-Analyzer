@@ -10,7 +10,6 @@
 
 **An AI-powered full-stack web app that analyzes your resume against any job description, scores the match, identifies skill gaps, and generates a personalized cover letter — all in under 20 seconds.**
 
-[🚀 Live Demo](#) · [📖 Documentation](#) · [🐛 Report Bug](../../issues)
 
 </div>
 
@@ -20,12 +19,9 @@
 
 > Upload PDF → Paste JD → Get instant AI analysis
 
-| Resume Upload & Analysis | Skills Match Dashboard |
-|---|---|
-| ![Upload Screen](<img width="1891" height="878" alt="image" src="https://github.com/user-attachments/assets/088a024f-1460-45d3-9025-c60e9bc4500d" />
-| ![Dashboard]<img width="1797" height="856" alt="image" src="https://github.com/user-attachments/assets/579a1ce4-65d2-4ab1-842f-f6dc28ba9dbc" />
-
-|![Upload Screen](<img width="1847" height="840" alt="image" src="https://github.com/user-attachments/assets/8d272ed5-80e4-49fe-8a80-56fb2970f869" />
+<img width="1891" height="878" alt="image" src="https://github.com/user-attachments/assets/088a024f-1460-45d3-9025-c60e9bc4500d" />
+<img width="1797" height="856" alt="image" src="https://github.com/user-attachments/assets/579a1ce4-65d2-4ab1-842f-f6dc28ba9dbc" />
+<img width="1847" height="840" alt="image" src="https://github.com/user-attachments/assets/8d272ed5-80e4-49fe-8a80-56fb2970f869" />
 
 
 ---
